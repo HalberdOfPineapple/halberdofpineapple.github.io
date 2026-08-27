@@ -1,0 +1,7 @@
+- Email: wl832@cornell.edu
+- LinkedIn: https://www.linkedin.com/in/wenxuan-li-2415201b7/
+- Google Scholar: https://scholar.google.com/citations?user=ASEeTO4AAAAJ&hl=en
+- Github: https://github.com/HalberdOfPineapple
+- publications:
+    - MTraining: Distributed Dynamic Sparse Attention for Efficient Ultra-Long Context Training https://proceedings.mlsys.org/paper_files/paper/2026/hash/7fafdf453029d7b8674b6f3dd18112bf-Abstract-Conference.html
+    - Navigating in High-Dimensional Search Space: A Hierarchical Bayesian Optimization Approach https://arxiv.org/abs/2410.23148
