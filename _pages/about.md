@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-I'm **Wenxuan Li**, a PhD candidate in Electrical and Computer Engineering at **Cornell University**, working on **efficient, scalable and reliable Machine Learning Systems** under the supervision of Dr. [Jiaxin Lin](https://www.csl.cornell.edu/~jiaxinl/).
+I'm **Wenxuan Li**, a PhD student in Electrical and Computer Engineering at **Cornell University**, working on **efficient, scalable and reliable Machine Learning Systems** under the supervision of Dr. [Jiaxin Lin](https://www.csl.cornell.edu/~jiaxinl/).
 
 Most recently I was a research intern at **Microsoft Research Asia** mentored by Dr. [Youshan Miao](https://www.microsoft.com/en-us/research/people/yomia/) and was awarded *Star of Tomorrow*, where I worked on building the resource-efficient performance model of dynamic MoE model training systems. Prior to this, I worked as research intern at **Microsoft Research Asia (Shanghai)**, working on efficient long-context LLM training with dynamic sparse attention under the supervision of [Chengruidong Zhang](https://openreview.net/profile?id=%7EChengruidong_Zhang1) and Dr. [Yuqing Yang](https://www.microsoft.com/en-us/research/people/yuqyang/). I also spent time at **Alibaba Cloud** as an intern, contributing to inference acceleration for [Wan 2.5](https://wan.video/).
 
